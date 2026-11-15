@@ -1,7 +1,5 @@
 # Social Media REST API
 
-Standalone copy of [Sanjeev Thiyagarajan’s FastAPI course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course), shared with the author’s permission.
-
 #### This API  has 4 routes
 
 ## 1) Post route
