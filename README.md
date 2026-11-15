@@ -72,9 +72,3 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 60(base)
 For Docker Compose development, set `DATABASE_PASSWORD` and `SECRET_KEY` in your local `.env` file before starting the services.
  
 
-### Here is the link of the playlist on youtube you can learn all about FASTAPI
- 
-<div id="badges">
-  <a href="https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM&index=2">
-    <img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630" alt="youtube Badge"/>
-  </a>
