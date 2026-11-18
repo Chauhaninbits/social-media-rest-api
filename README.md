@@ -22,13 +22,13 @@
 First clone this repo by using following command
 ````
 
-git clone https://github.com/Sanjeev-Thiyagarajan/fastapi-course.git
+git clone https://github.com/Chauhaninbits/social-media-rest-api.git
 
 ````
 then 
 ````
 
-cd fastapi-course
+cd social-media-rest-api
 
 ````
 
